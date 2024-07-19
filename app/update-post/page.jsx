@@ -20,7 +20,6 @@ export default function page() {
     catch (error){
       console.error(error);
     }
-
   }
 
   useEffect(()=>{
